@@ -72,4 +72,4 @@ Login System/
 
 ## Author
 
-[@John-/Muriungi](https://github.com/John-Muriungi)
+[@John-Muriungi](https://github.com/John-Muriungi)
